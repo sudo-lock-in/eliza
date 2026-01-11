@@ -1,5 +1,3 @@
-//https://www.youtube.com/watch?v=5sbeUMDD4v4
-
 import java.util.Scanner;
 public class ProjectEliza {
 
@@ -64,3 +62,4 @@ public class ProjectEliza {
 
 		}
 }
+
