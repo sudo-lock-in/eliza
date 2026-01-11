@@ -1,6 +1,3 @@
-//https://www.youtube.com/watch?v=5sbeUMDD4v4
-
-//i just took the demo code and expanded upon it
 	public class PromptBank {
 	public String [] questions;
 	public String [] statements;
@@ -61,3 +58,4 @@
 	}
 	
 }
+
