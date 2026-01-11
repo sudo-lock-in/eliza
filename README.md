@@ -8,7 +8,7 @@ java ProjectEliza.jaza
 ### Starting and Ending
 <ul>
   <li>On startup, Eliza will greet you and ask your name.</li> 
-</ul>To quit type "exit" and she will confirm if you would like to end the session.</li>
+<li>To quit, type "exit" and she will confirm if you would like to end the session.</li>
 </ul>
 
 ### Responses to Input
