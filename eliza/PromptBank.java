@@ -1,10 +1,10 @@
-	public class PromptBank {
+public class PromptBank {
 	public String [] questions;
 	public String [] statements;
 	
 
 	public PromptBank(){
-		questions = new String[5]; //initialized the arrays to the correct length to match my number of questions/statements
+		questions = new String[5];
 		statements = new String[5];
 		
 	}
