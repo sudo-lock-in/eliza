@@ -15,13 +15,13 @@ java ProjectEliza.jaza
 ### Responses to Input
 <ul>
   <li>
-    Responds to exclamations with "Wow! Dramatic! [randomized statement w/ word from input]"
+    Responds to exclamations with "Wow! Dramatic! [randomized statement w/ word from input]."
   </li>
 </li>
   <li>
-  Responds to regular sentences with a randomized statement with a word from input. 
+  Responds to regular sentences with a randomized statement featuring a word from input. 
 </li>
   <li>
-    Responds to questions with a randomized question with a word from input.
+    Responds to questions with a randomized question featuring a word from input.
   </li>
 </ul>
