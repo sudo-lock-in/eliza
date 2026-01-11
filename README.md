@@ -9,7 +9,7 @@ java ProjectEliza.jaza
 <ul>
   <li>On startup, Eliza will greet you and ask your name.</li> 
 <li>After telling her your name, you can quit by typing "exit".</li>
- <li>When you say "exit", she will confirm if you would like to start another session. Say "no" to terminate or "yes" to start over.</li>
+ <li>When you say "exit", she will ask if you would like to start another session. Say "no" to terminate or "yes" to start again.</li>
 </ul>
 
 ### Responses to Input
