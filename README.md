@@ -14,14 +14,14 @@ java ProjectEliza.jaza
 
 ### Responses to Input
 <ul>
+</li>
   <li>
-    Responds to exclamations with "Wow! Dramatic! [randomized statement w/ word from input]."
+  Responds to regular sentences with a randomized statement featuring the first and last word from input. 
+</li>
+   <li>
+    Responds to exclamations with an added "Wow! Dramatic!" to the start of the statement.
   </li>
-</li>
   <li>
-  Responds to regular sentences with a randomized statement featuring a word from input. 
-</li>
-  <li>
-    Responds to questions with a randomized question featuring a word from input.
+    Responds to questions with a randomized question featuring the first and last word from input.
   </li>
 </ul>
