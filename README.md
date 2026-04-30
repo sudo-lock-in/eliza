@@ -1,7 +1,7 @@
 # Eliza
 Runs in the console from the eliza folder.
 ```
-java ProjectEliza.jaza
+java ProjectEliza.java
 ```
 ## Functionality
 
